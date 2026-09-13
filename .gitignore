@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Excel temporales (archivos de bloqueo que crea Excel al abrir un archivo)
+~$*.xlsx
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Entornos / configuraciones locales
+.env
